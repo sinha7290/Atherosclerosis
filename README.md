@@ -61,7 +61,6 @@ The notebook illustrates how to:
 Example visualizations include:
 
 • violin plots  
-• swarm plots  
 • group comparisons  
 • classification plots  
 
