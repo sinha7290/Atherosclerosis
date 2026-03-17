@@ -132,7 +132,3 @@ The scoring framework can be applied to any biological pathway represented by a 
 If you use this code or approach, please cite the corresponding manuscript describing the composite gene scoring framework and macrophage lipid biology.
 
 ---
-
-# License
-
-MIT License
