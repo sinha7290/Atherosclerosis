@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Atherosclerosis: composite gene-signature scoring for macrophage states in atherosclerosis"
+type: software
+authors:
+  # [CHECK: add any co-authors who should be credited on the software record]
+  - given-names: Saptarshi
+    family-names: Sinha
+    orcid: "https://orcid.org/0000-0002-4100-5727"
+    affiliation: "University of California San Diego"
+license: MIT
+repository-code: "https://github.com/sinha7290/Atherosclerosis"
+version: "1.0.0"
+date-released: "2026-11-27"
+keywords:
+  - atherosclerosis
+  - macrophage
+  - gene signature
+  - composite score
+  - StepMiner
+  - Boolean implication network
+abstract: >-
+  Python notebook and supporting code for computing composite gene-signature
+  scores per sample (StepMiner thresholding, threshold-relative normalization
+  and summation) to compare macrophage states in atherosclerosis.
